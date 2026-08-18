@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitamishraa/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/akshitamishraa/leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/akshitamishraa/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitamishraa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitamishraa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akshitamishraa/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
