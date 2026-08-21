@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshitamishraa/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akshitamishraa/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/akshitamishraa/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/akshitamishraa/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akshitamishraa/leetcode/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshitamishraa/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshitamishraa/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
