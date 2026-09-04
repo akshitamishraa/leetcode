@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitamishraa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/akshitamishraa/leetcode/tree/master/0704-binary-search) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/akshitamishraa/leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
