@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/akshitamishraa/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshitamishraa/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshitamishraa/leetcode/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitamishraa/leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/akshitamishraa/leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitamishraa/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/akshitamishraa/leetcode/tree/master/0709-to-lower-case) |
