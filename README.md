@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshitamishraa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/akshitamishraa/leetcode/tree/master/1929-concatenation-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akshitamishraa/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/akshitamishraa/leetcode/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitamishraa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
