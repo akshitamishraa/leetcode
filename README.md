@@ -179,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshitamishraa/leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
