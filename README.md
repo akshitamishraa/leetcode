@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/akshitamishraa/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akshitamishraa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0707-design-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
