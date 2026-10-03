@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshitamishraa/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/akshitamishraa/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
