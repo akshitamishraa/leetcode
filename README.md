@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/akshitamishraa/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshitamishraa/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitamishraa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akshitamishraa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitamishraa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshitamishraa/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akshitamishraa/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshitamishraa/leetcode/tree/master/0268-missing-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshitamishraa/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akshitamishraa/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshitamishraa/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitamishraa/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitamishraa/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akshitamishraa/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Greedy
@@ -281,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshitamishraa/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitamishraa/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/akshitamishraa/leetcode/tree/master/0904-fruit-into-baskets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
