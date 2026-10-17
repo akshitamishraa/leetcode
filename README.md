@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/akshitamishraa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshitamishraa/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/akshitamishraa/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshitamishraa/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitamishraa/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshitamishraa/leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/akshitamishraa/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akshitamishraa/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshitamishraa/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/akshitamishraa/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitamishraa/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/akshitamishraa/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitamishraa/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitamishraa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitamishraa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshitamishraa/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitamishraa/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -299,4 +303,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitamishraa/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
