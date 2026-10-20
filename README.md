@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshitamishraa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/akshitamishraa/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/akshitamishraa/leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshitamishraa/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/akshitamishraa/leetcode/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitamishraa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshitamishraa/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/akshitamishraa/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akshitamishraa/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitamishraa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/akshitamishraa/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshitamishraa/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/akshitamishraa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshitamishraa/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshitamishraa/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
