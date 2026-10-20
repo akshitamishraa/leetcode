@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshitamishraa/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshitamishraa/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitamishraa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshitamishraa/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/akshitamishraa/leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akshitamishraa/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/akshitamishraa/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitamishraa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshitamishraa/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akshitamishraa/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitamishraa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitamishraa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
