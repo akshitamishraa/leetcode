@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/akshitamishraa/leetcode/tree/master/3024-type-of-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshitamishraa/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3861-minimum-capacity-box](https://github.com/akshitamishraa/leetcode/tree/master/3861-minimum-capacity-box) |
 ## Two Pointers
 |  |
 | ------- |
