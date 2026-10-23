@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshitamishraa/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/akshitamishraa/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/akshitamishraa/leetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/akshitamishraa/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/akshitamishraa/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshitamishraa/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshitamishraa/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/akshitamishraa/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshitamishraa/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akshitamishraa/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshitamishraa/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
