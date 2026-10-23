@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akshitamishraa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshitamishraa/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/akshitamishraa/leetcode/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshitamishraa/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshitamishraa/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/akshitamishraa/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshitamishraa/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/akshitamishraa/leetcode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akshitamishraa/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshitamishraa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/akshitamishraa/leetcode/tree/master/3024-type-of-triangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/akshitamishraa/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
