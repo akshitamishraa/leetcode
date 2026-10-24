@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshitamishraa/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3861-minimum-capacity-box](https://github.com/akshitamishraa/leetcode/tree/master/3861-minimum-capacity-box) |
+| [3978-unique-middle-element](https://github.com/akshitamishraa/leetcode/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitamishraa/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akshitamishraa/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3978-unique-middle-element](https://github.com/akshitamishraa/leetcode/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
 | ------- |
