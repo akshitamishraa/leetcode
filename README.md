@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/akshitamishraa/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/akshitamishraa/leetcode/tree/master/3024-type-of-triangle) |
+| [3169-count-days-without-meetings](https://github.com/akshitamishraa/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshitamishraa/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3861-minimum-capacity-box](https://github.com/akshitamishraa/leetcode/tree/master/3861-minimum-capacity-box) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitamishraa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/akshitamishraa/leetcode/tree/master/3024-type-of-triangle) |
+| [3169-count-days-without-meetings](https://github.com/akshitamishraa/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshitamishraa/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
