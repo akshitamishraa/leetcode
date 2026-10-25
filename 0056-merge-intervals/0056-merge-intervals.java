@@ -1,18 +1,40 @@
 class Solution {
+    public boolean isOverlap(int[] int1, int[] int2){
+        return int1[1] >= int2[0] && int2[1] >= int1[0];
+    } 
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
-        List<int[]> res = new ArrayList<>();
-        res.add(intervals[0]);
-        for(int i = 0; i < intervals.length; i++){
-            int[] last = res.get(res.size() - 1);
-            int[] interval = intervals[i];
-            if(interval[0] <= last[1]){
-                last[0] = Math.min(interval[0], last[0]);
-                last[1] = Math.max(interval[1], last[1]);
-            } else{
-                res.add(interval);
+        List<int[]> list = new ArrayList<>();
+
+        for(int[] interval : intervals){
+            list.add(interval);
+        }
+        boolean isMergeHappened = true;
+
+        while(isMergeHappened){
+            isMergeHappened = false;
+            for(int i = 0; i < intervals.length; i++){
+                int j = i + 1;
+
+                while(j < list.size()){
+                    int[] int1 = list.get(i);
+                    int[] int2 = list.get(j);
+
+                    if(isOverlap(int1, int2)){
+                        int1[0] = Math.min(int1[0], int2[0]);
+                        int1[1] = Math.max(int1[1], int2[1]);
+
+                        list.remove(j);
+                        isMergeHappened = true;
+                    } else{
+                        j++;
+                    }
+                }
             }
         }
-        return res.toArray(new int[res.size()][]);
+        int[][] res = new int[list.size()][2];
+        for(int i = 0; i < list.size(); i++){
+            res[i] = list.get(i);
+        }
+        return res;
     }
 }
