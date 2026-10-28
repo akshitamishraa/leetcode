@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshitamishraa/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3861-minimum-capacity-box](https://github.com/akshitamishraa/leetcode/tree/master/3861-minimum-capacity-box) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3978-unique-middle-element](https://github.com/akshitamishraa/leetcode/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshitamishraa/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akshitamishraa/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/akshitamishraa/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshitamishraa/leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
