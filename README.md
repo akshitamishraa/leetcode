@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/akshitamishraa/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshitamishraa/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3861-minimum-capacity-box](https://github.com/akshitamishraa/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3978-unique-middle-element](https://github.com/akshitamishraa/leetcode/tree/master/3978-unique-middle-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshitamishraa/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akshitamishraa/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akshitamishraa/leetcode/tree/master/0389-find-the-difference) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshitamishraa/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshitamishraa/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/akshitamishraa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/akshitamishraa/leetcode/tree/master/3941-password-strength) |
 ## Trie
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshitamishraa/leetcode/tree/master/0169-majority-element) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -392,4 +396,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshitamishraa/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshitamishraa/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
