@@ -26,19 +26,18 @@ class MyCalendarTwo {
         for (int i = 0; i < bookings.size(); i++) {
             if (overlap(bookings.get(i), startTime, endTime)) {
 
-                overlapBookings.add(new int[]{
-                    Math.max(bookings.get(i)[0], startTime),
-                    Math.min(bookings.get(i)[1], endTime)
+                overlapBookings.add(new int[] {
+                        Math.max(bookings.get(i)[0], startTime),
+                        Math.min(bookings.get(i)[1], endTime)
                 });
             }
         }
 
-        bookings.add(new int[]{startTime, endTime});
+        bookings.add(new int[] { startTime, endTime });
 
         return true;
     }
 }
-
 
 /**
  * Your MyCalendarTwo object will be instantiated and called as such:
