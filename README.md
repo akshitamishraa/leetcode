@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/akshitamishraa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/akshitamishraa/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/akshitamishraa/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/akshitamishraa/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/akshitamishraa/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/akshitamishraa/leetcode/tree/master/1929-concatenation-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitamishraa/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshitamishraa/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akshitamishraa/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/akshitamishraa/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/akshitamishraa/leetcode/tree/master/2469-convert-the-temperature) |
 | [3024-type-of-triangle](https://github.com/akshitamishraa/leetcode/tree/master/3024-type-of-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshitamishraa/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
